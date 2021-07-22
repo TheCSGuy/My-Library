@@ -1,0 +1,47 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ff first
+#define ss second 
+#define pb push_back
+#define mp make_pair
+#define eb emplace_back
+#define vi vector<int>
+#define pii pair<int,int>
+#define pll pair<long long,long long>
+#define all(x) x.begin(),x.end()
+#define mset(var,val) memset(var,val,sizeof(var))
+#define w(t)  int t; cin>>t; while(t--)
+#define fo(i,a,n) for(int i = a; i < n; ++i)
+#define fo1(i,a,n) for(int i = a; i <= n; ++i)
+
+typedef long long ll;
+typedef unsigned long long ull;
+ 
+const int mod= 1e9+7;
+const int N = 100010;
+
+const ll inf = 1e9;
+
+void fast_io(){
+ 	ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+ }
+
+ // Number of leading zeroes: builtin_clz(x)
+ // Number of trailing zeroes : builtin_ctz(x)
+ // Number of 1-bits: __builtin_popcount(x)
+
+void solve(){
+	
+	
+}	 
+
+int main(){
+	fast_io();
+    //w(t)
+		solve();
+    
+    return 0;
+}
